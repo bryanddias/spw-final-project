@@ -1,0 +1,49 @@
+body{
+
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(rx7.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.login-box{
+
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+
+.login-left{
+
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+}
+    
+.login-right{
+
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+
+}
+
+.bgded_overlay{
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(rx7.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.sidebar{width:298px; height:500px; border-radius: 9px; float:right; overflow:auto; background:gray; margin-right:130px;}
+
+.main_content{width:700px; border-radius: 9px; border-right:2px solid #ff0101; border-left: 2px solid #ff0101;  float:left; background:lightgrey; margin-left:132px;}
+
+.main_content p {padding:5px;}
+
+.main_content a:link{font-size:22px; font-family:comic sans MS;}
+
+.searchbox {text-align:center; margin:10px;}
+
+.main_content h2 {padding:5px; color:brown;}
+
+.sidebar{width:298px; height:500px; border-radius: 9px; float:right; overflow:auto; background:gray; margin-right:130px;}
+
+.sidebar h2{font-size:33px; font-family:comic sans MS; color:yellow;}

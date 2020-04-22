@@ -1,0 +1,21 @@
+body {
+background:black;
+padding:0; 
+margin:0;
+}
+
+
+
+#main_content{width:700px; border-radius: 9px; border-right:2px solid #ff0101; border-left: 2px solid #ff0101;  float:left; background:lightgrey; margin-left:132px;}
+
+
+
+#main_content a:link{font-size:22px; font-family:comic sans MS;}
+
+#searchbox {text-align:center; margin:10px;}
+
+#main_content h2 {padding:5px; color:brown;}
+
+
+
+
